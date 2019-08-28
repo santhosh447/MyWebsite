@@ -10,7 +10,7 @@ namespace GitExamples2
     {
         static void Main(string[] args)
         { 
-            // branch1
+            // branch2 modified server side
         }
     }
 }
