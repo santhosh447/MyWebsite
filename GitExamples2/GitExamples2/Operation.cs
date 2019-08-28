@@ -8,6 +8,6 @@ namespace GitExamples2
 {
     public class Operation
     {
-        //master
+        //branch1
     }
 }
