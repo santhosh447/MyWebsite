@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace GitExamples2
 {
-    class Program
+    public class Operation
     {
-        static void Main(string[] args)
-        {
-        }
+        //branch1
     }
-
 }
